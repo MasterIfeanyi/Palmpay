@@ -31,7 +31,7 @@ $('#tech-carousel').owlCarousel({
 $('#why-carousel').owlCarousel({
     loop:true,
     margin:28,
-    dots: true,
+    dots: false,
     nav: false,
     smartSpeed: 1000,
     autoplay:true,
@@ -42,13 +42,14 @@ $('#why-carousel').owlCarousel({
             items:1
         },
         600:{
-            items:2
+            items:3
         },
         1000:{
-            items:3
+            items:6
         }
     }
 })
+
 
 
 // autoplayHoverPause, pause auto play on hover 
