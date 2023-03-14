@@ -90,10 +90,10 @@ a {
 }
 
 .navbar .navbar-nav .nav-link.active {
-    color: #895DFB;
+    color: var(--text);
 }
 
-.nav-link {
+/* .nav-link {
     width: 75%;
 }
 
@@ -107,7 +107,7 @@ a {
 .nav-link {
     width: 50%;
 }
-}
+} */
 
 
 /* Utilities */
