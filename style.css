@@ -93,6 +93,21 @@ a {
     color: #895DFB;
 }
 
+.nav-link {
+    width: 75%;
+}
+
+@media screen and (max-width:478px) {
+.navbar {
+    padding: 0
+}
+}
+
+@media screen and (max-width:300px) {
+.nav-link {
+    width: 50%;
+}
+}
 
 
 /* Utilities */
