@@ -24,3 +24,5 @@ I prevent navbar toggler from wrapping on extra small screens
 </div>
 
 ```
+
+[link](https://stackoverflow.com/questions/58584147/keep-brand-and-toggler-on-same-row-when-screen-very-small-bootstrap-4)
