@@ -93,6 +93,11 @@ a {
     color: var(--text);
 }
 
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
 /* .nav-link {
     width: 75%;
 }
